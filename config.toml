@@ -12,7 +12,7 @@ pygmentsUseClassic = false
 pygmentsCodeFences = true
 
 # Analytics
-googleAnalytics = "UA-45795634-2"
+googleAnalytics = "UA-45795634-1"
 
 # Comments
 # disqusShortname = "blogdejavusk"
